@@ -1,6 +1,6 @@
 const express = require('express')
 const app = express()
-//const port = 3000  //w3
+const port = 3000  //w3
 const jwt = require('jsonwebtoken')
 const bcrypt = require('bcrypt')
 
